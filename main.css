@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.title {
+  font-family: monospace;
+  font-size: 32px;
+  color: white;
+  text-align: center;
+  padding-top: 300px;
+}
+
+.sub {
+  font-family: monospace;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}

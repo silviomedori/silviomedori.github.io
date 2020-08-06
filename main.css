@@ -1,5 +1,8 @@
 body {
-  background-color: black;
+  background-color: rgb(61, 117, 182);
+  /*background-color: red;
+  animation-name: example;
+  animation-duration: 4s;*/
 }
 
 .title {
@@ -17,3 +20,25 @@ body {
   text-align: center;
   padding-top: 10px;
 }
+
+.instagram_icon {
+  align-items: center;
+  padding-left: 50%;
+  padding-top: 30px;
+}
+
+/*@keyframes example {
+  0% {
+    background-color: red;
+  }
+  25% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: blue;
+  }
+  100% {
+    background-color: green;
+  }
+}
+*/
